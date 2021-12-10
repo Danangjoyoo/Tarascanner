@@ -1,0 +1,104 @@
+('D:/Program Files/Python/Lib/site-packages/cv2/',
+ 'cv2',
+ [],
+ 'DATA',
+ [('cv2\\cv2.cp38-win_amd64.pyd',
+   'D:/Program Files/Python/Lib/site-packages/cv2/cv2.cp38-win_amd64.pyd',
+   'DATA'),
+  ('cv2\\LICENSE-3RD-PARTY.txt',
+   'D:/Program Files/Python/Lib/site-packages/cv2/LICENSE-3RD-PARTY.txt',
+   'DATA'),
+  ('cv2\\LICENSE.txt',
+   'D:/Program Files/Python/Lib/site-packages/cv2/LICENSE.txt',
+   'DATA'),
+  ('cv2\\opencv_videoio_ffmpeg453_64.dll',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/opencv_videoio_ffmpeg453_64.dll',
+   'DATA'),
+  ('cv2\\version.py',
+   'D:/Program Files/Python/Lib/site-packages/cv2/version.py',
+   'DATA'),
+  ('cv2\\__init__.py',
+   'D:/Program Files/Python/Lib/site-packages/cv2/__init__.py',
+   'DATA'),
+  ('cv2\\__pycache__\\version.cpython-38.pyc',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/__pycache__\\version.cpython-38.pyc',
+   'DATA'),
+  ('cv2\\__pycache__\\__init__.cpython-38.pyc',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/__pycache__\\__init__.cpython-38.pyc',
+   'DATA'),
+  ('cv2\\data\\haarcascade_eye.xml',
+   'D:/Program Files/Python/Lib/site-packages/cv2/data\\haarcascade_eye.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_eye_tree_eyeglasses.xml',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/data\\haarcascade_eye_tree_eyeglasses.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalcatface.xml',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/data\\haarcascade_frontalcatface.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalcatface_extended.xml',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/data\\haarcascade_frontalcatface_extended.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalface_alt.xml',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/data\\haarcascade_frontalface_alt.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalface_alt2.xml',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/data\\haarcascade_frontalface_alt2.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalface_alt_tree.xml',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/data\\haarcascade_frontalface_alt_tree.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_frontalface_default.xml',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/data\\haarcascade_frontalface_default.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_fullbody.xml',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/data\\haarcascade_fullbody.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_lefteye_2splits.xml',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/data\\haarcascade_lefteye_2splits.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_licence_plate_rus_16stages.xml',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/data\\haarcascade_licence_plate_rus_16stages.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_lowerbody.xml',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/data\\haarcascade_lowerbody.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_profileface.xml',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/data\\haarcascade_profileface.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_righteye_2splits.xml',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/data\\haarcascade_righteye_2splits.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_russian_plate_number.xml',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/data\\haarcascade_russian_plate_number.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_smile.xml',
+   'D:/Program Files/Python/Lib/site-packages/cv2/data\\haarcascade_smile.xml',
+   'DATA'),
+  ('cv2\\data\\haarcascade_upperbody.xml',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/data\\haarcascade_upperbody.xml',
+   'DATA'),
+  ('cv2\\data\\__init__.py',
+   'D:/Program Files/Python/Lib/site-packages/cv2/data\\__init__.py',
+   'DATA'),
+  ('cv2\\data\\__pycache__\\__init__.cpython-38.pyc',
+   'D:/Program '
+   'Files/Python/Lib/site-packages/cv2/data\\__pycache__\\__init__.cpython-38.pyc',
+   'DATA')])
